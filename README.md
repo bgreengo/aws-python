@@ -10,5 +10,6 @@ Creating a static website with python and AWS.
 
 Web has the following features:
 
--List buckets
--List objects in bucket
+- List buckets
+- List objects in bucket
+- Create and setup s3 bucket
